@@ -6,7 +6,7 @@ Data from New York City's Citi Bike program has been analyzed for trends and con
 
 ## Results
 
-The results of this analysis are captured in maps, bar charts, line charts, and heatmaps that identify usage and demographics of bikeshare participants (see "Bikesharing_Tableau" [link to dashboard](https://public.tableau.com/app/profile/jamie.m.thompson/viz/Bikesharing_Tableau_16481763823950/Story1?publish=yes)).
+The results of this analysis are captured in maps, bar charts, line charts, and heatmaps that identify usage and demographics of bikeshare participants (see ["Bikesharing_Tableau"] (https://public.tableau.com/app/profile/jamie.m.thompson/viz/Bikesharing_Tableau_16481763823950/Story1?publish=yes)).
 
 ### Summary
 
